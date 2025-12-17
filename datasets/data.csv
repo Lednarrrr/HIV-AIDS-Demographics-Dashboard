@@ -1,0 +1,201 @@
+Case_ID,Diagnosis_Date,Region,Sex,Age,Age_Group,Mode_of_Transmission,Risk_Category
+1001,2024-10-02,NCR,Male,22,15-24,Sexual Contact,MSM
+1002,2024-10-05,Region 4A,Male,28,25-34,Sexual Contact,MSM
+1003,2024-10-06,NCR,Male,21,15-24,Sexual Contact,MSM
+1004,2024-10-08,Region 3,Male,24,15-24,Sexual Contact,MSM
+1005,2024-10-12,Region 7,Male,30,25-34,Sexual Contact,MSM
+1006,2024-10-15,NCR,Male,19,15-24,Sexual Contact,MSM
+1007,2024-10-18,Region 4A,Male,35,35-49,Sexual Contact,Heterosexual
+1008,2024-10-20,NCR,Male,23,15-24,Sexual Contact,MSM
+1009,2024-10-22,Region 6,Male,27,25-34,Sexual Contact,MSM
+1010,2024-10-25,NCR,Female,29,25-34,Sexual Contact,Heterosexual
+1011,2024-10-28,Region 4A,Male,20,15-24,Sexual Contact,MSM
+1012,2024-10-30,NCR,Male,26,25-34,Sexual Contact,MSM
+1013,2024-11-01,Region 3,Male,32,25-34,Sexual Contact,MSM
+1014,2024-11-03,NCR,Male,18,15-24,Sexual Contact,MSM
+1015,2024-11-05,Region 11,Male,25,25-34,Sexual Contact,MSM
+1016,2024-11-08,Region 4A,Male,22,15-24,Sexual Contact,MSM
+1017,2024-11-10,NCR,Male,40,35-49,Sexual Contact,MSM
+1018,2024-11-12,NCR,Male,21,15-24,Sexual Contact,MSM
+1019,2024-11-15,Region 7,Male,29,25-34,Sexual Contact,MSM
+1020,2024-11-18,Region 4A,Male,24,15-24,Sexual Contact,MSM
+1021,2024-11-20,NCR,Male,33,25-34,Sexual Contact,MSM
+1022,2024-11-22,Region 3,Male,17,15-24,Sexual Contact,MSM
+1023,2024-11-25,NCR,Male,28,25-34,Sexual Contact,MSM
+1024,2024-11-28,Region 4A,Male,23,15-24,Sexual Contact,MSM
+1025,2024-11-30,NCR,Female,31,25-34,Sexual Contact,Heterosexual
+1026,2024-12-01,Region 6,Male,26,25-34,Sexual Contact,MSM
+1027,2024-12-03,NCR,Male,20,15-24,Sexual Contact,MSM
+1028,2024-12-05,Region 4A,Male,38,35-49,Sexual Contact,MSM
+1029,2024-12-08,NCR,Male,22,15-24,Sexual Contact,MSM
+1030,2024-12-10,Region 3,Male,27,25-34,Sexual Contact,MSM
+1031,2024-12-12,NCR,Male,19,15-24,Sexual Contact,MSM
+1032,2024-12-15,Region 7,Male,34,25-34,Sexual Contact,MSM
+1033,2024-12-18,Region 4A,Male,25,25-34,Sexual Contact,MSM
+1034,2024-12-20,NCR,Male,21,15-24,Sexual Contact,MSM
+1035,2024-12-22,NCR,Male,29,25-34,Sexual Contact,MSM
+1036,2024-12-24,Region 11,Male,23,15-24,Sexual Contact,MSM
+1037,2024-12-26,NCR,Male,42,35-49,Sexual Contact,MSM
+1038,2024-12-28,Region 4A,Male,16,15-24,Sexual Contact,MSM
+1039,2024-12-29,NCR,Male,30,25-34,Sexual Contact,MSM
+1040,2024-12-30,Region 3,Male,24,15-24,Sexual Contact,MSM
+1041,2024-10-03,NCR,Male,28,25-34,Sexual Contact,MSM
+1042,2024-10-07,Region 4A,Male,31,25-34,Sexual Contact,MSM
+1043,2024-10-09,NCR,Male,20,15-24,Sexual Contact,MSM
+1044,2024-10-14,Region 3,Male,25,25-34,Sexual Contact,MSM
+1045,2024-10-16,Region 7,Male,37,35-49,Sexual Contact,MSM
+1046,2024-10-19,NCR,Male,22,15-24,Sexual Contact,MSM
+1047,2024-10-21,Region 4A,Male,29,25-34,Sexual Contact,MSM
+1048,2024-10-24,NCR,Male,24,15-24,Sexual Contact,MSM
+1049,2024-10-27,Region 6,Male,33,25-34,Sexual Contact,MSM
+1050,2024-10-29,NCR,Female,26,25-34,Sexual Contact,Heterosexual
+1051,2024-11-02,Region 4A,Male,19,15-24,Sexual Contact,MSM
+1052,2024-11-04,NCR,Male,27,25-34,Sexual Contact,MSM
+1053,2024-11-07,Region 3,Male,23,15-24,Sexual Contact,MSM
+1054,2024-11-09,NCR,Male,36,35-49,Sexual Contact,MSM
+1055,2024-11-11,Region 11,Male,21,15-24,Sexual Contact,MSM
+1056,2024-11-14,Region 4A,Male,30,25-34,Sexual Contact,MSM
+1057,2024-11-17,NCR,Male,25,25-34,Sexual Contact,MSM
+1058,2024-11-19,NCR,Male,18,15-24,Sexual Contact,MSM
+1059,2024-11-21,Region 7,Male,28,25-34,Sexual Contact,MSM
+1060,2024-11-24,Region 4A,Male,22,15-24,Sexual Contact,MSM
+1061,2024-11-27,NCR,Male,34,25-34,Sexual Contact,MSM
+1062,2024-11-29,Region 3,Male,20,15-24,Sexual Contact,MSM
+1063,2024-12-02,NCR,Male,39,35-49,Sexual Contact,MSM
+1064,2024-12-04,Region 4A,Male,26,25-34,Sexual Contact,MSM
+1065,2024-12-06,NCR,Female,24,15-24,Sexual Contact,Heterosexual
+1066,2024-12-09,Region 6,Male,23,15-24,Sexual Contact,MSM
+1067,2024-12-11,NCR,Male,29,25-34,Sexual Contact,MSM
+1068,2024-12-13,Region 4A,Male,21,15-24,Sexual Contact,MSM
+1069,2024-12-16,NCR,Male,32,25-34,Sexual Contact,MSM
+1070,2024-12-19,Region 3,Male,25,25-34,Sexual Contact,MSM
+1071,2024-12-21,NCR,Male,17,15-24,Sexual Contact,MSM
+1072,2024-12-23,Region 7,Male,35,35-49,Sexual Contact,MSM
+1073,2024-12-25,Region 4A,Male,28,25-34,Sexual Contact,MSM
+1074,2024-12-27,NCR,Male,24,15-24,Sexual Contact,MSM
+1075,2024-12-30,NCR,Male,27,25-34,Sexual Contact,MSM
+1076,2024-10-04,Region 11,Male,22,15-24,Sexual Contact,MSM
+1077,2024-10-10,NCR,Male,31,25-34,Sexual Contact,MSM
+1078,2024-10-13,Region 4A,Male,19,15-24,Sexual Contact,MSM
+1079,2024-10-17,NCR,Male,33,25-34,Sexual Contact,MSM
+1080,2024-10-23,Region 3,Male,26,25-34,Sexual Contact,MSM
+1081,2024-10-26,NCR,Male,20,15-24,Sexual Contact,MSM
+1082,2024-10-31,Region 4A,Male,29,25-34,Sexual Contact,MSM
+1083,2024-11-06,Region 7,Male,23,15-24,Sexual Contact,MSM
+1084,2024-11-13,NCR,Male,38,35-49,Sexual Contact,MSM
+1085,2024-11-16,NCR,Male,25,25-34,Sexual Contact,MSM
+1086,2024-11-23,Region 6,Male,21,15-24,Sexual Contact,MSM
+1087,2024-11-26,Region 4A,Male,30,25-34,Sexual Contact,MSM
+1088,2024-12-07,NCR,Male,24,15-24,Sexual Contact,MSM
+1089,2024-12-14,Region 3,Male,28,25-34,Sexual Contact,MSM
+1090,2024-12-17,NCR,Male,18,15-24,Sexual Contact,MSM
+1091,2024-12-20,Region 4A,Male,32,25-34,Sexual Contact,MSM
+1092,2024-12-24,NCR,Male,22,15-24,Sexual Contact,MSM
+1093,2024-12-28,Region 11,Male,27,25-34,Sexual Contact,MSM
+1094,2024-12-31,NCR,Male,35,35-49,Sexual Contact,MSM
+1095,2024-10-11,Region 4A,Male,26,25-34,Sexual Contact,MSM
+1096,2024-10-24,NCR,Male,20,15-24,Sexual Contact,MSM
+1097,2024-11-08,Region 3,Male,29,25-34,Sexual Contact,MSM
+1098,2024-11-22,Region 7,Male,23,15-24,Sexual Contact,MSM
+1099,2024-12-05,NCR,Male,34,25-34,Sexual Contact,MSM
+1100,2024-12-18,Region 4A,Male,19,15-24,Sexual Contact,MSM
+1101,2024-10-02,NCR,Male,25,25-34,Sexual Contact,MSM
+1102,2024-10-05,Region 4A,Male,21,15-24,Sexual Contact,MSM
+1103,2024-10-08,NCR,Male,28,25-34,Sexual Contact,MSM
+1104,2024-10-12,Region 3,Male,33,25-34,Sexual Contact,MSM
+1105,2024-10-15,Region 7,Male,24,15-24,Sexual Contact,MSM
+1106,2024-10-18,NCR,Male,45,35-49,Sexual Contact,MSM
+1107,2024-10-20,Region 4A,Male,27,25-34,Sexual Contact,MSM
+1108,2024-10-22,NCR,Male,20,15-24,Sexual Contact,MSM
+1109,2024-10-25,Region 6,Male,30,25-34,Sexual Contact,MSM
+1110,2024-10-28,NCR,Female,23,15-24,Sexual Contact,Heterosexual
+1111,2024-10-30,Region 4A,Male,26,25-34,Sexual Contact,MSM
+1112,2024-11-01,NCR,Male,22,15-24,Sexual Contact,MSM
+1113,2024-11-03,Region 3,Male,31,25-34,Sexual Contact,MSM
+1114,2024-11-05,NCR,Male,18,15-24,Sexual Contact,MSM
+1115,2024-11-08,Region 11,Male,29,25-34,Sexual Contact,MSM
+1116,2024-11-10,Region 4A,Male,25,25-34,Sexual Contact,MSM
+1117,2024-11-12,NCR,Male,37,35-49,Sexual Contact,MSM
+1118,2024-11-15,NCR,Male,21,15-24,Sexual Contact,MSM
+1119,2024-11-18,Region 7,Male,28,25-34,Sexual Contact,MSM
+1120,2024-11-20,Region 4A,Male,24,15-24,Sexual Contact,MSM
+1121,2024-11-22,NCR,Male,32,25-34,Sexual Contact,MSM
+1122,2024-11-25,Region 3,Male,19,15-24,Sexual Contact,MSM
+1123,2024-11-28,NCR,Male,26,25-34,Sexual Contact,MSM
+1124,2024-11-30,Region 4A,Male,23,15-24,Sexual Contact,MSM
+1125,2024-12-01,NCR,Female,35,35-49,Sexual Contact,Heterosexual
+1126,2024-12-03,Region 6,Male,27,25-34,Sexual Contact,MSM
+1127,2024-12-05,NCR,Male,22,15-24,Sexual Contact,MSM
+1128,2024-12-08,Region 4A,Male,41,35-49,Sexual Contact,MSM
+1129,2024-12-10,NCR,Male,30,25-34,Sexual Contact,MSM
+1130,2024-12-12,Region 3,Male,20,15-24,Sexual Contact,MSM
+1131,2024-12-15,NCR,Male,25,25-34,Sexual Contact,MSM
+1132,2024-12-18,Region 7,Male,33,25-34,Sexual Contact,MSM
+1133,2024-12-20,Region 4A,Male,28,25-34,Sexual Contact,MSM
+1134,2024-12-22,NCR,Male,21,15-24,Sexual Contact,MSM
+1135,2024-12-24,NCR,Male,29,25-34,Sexual Contact,MSM
+1136,2024-12-26,Region 11,Male,24,15-24,Sexual Contact,MSM
+1137,2024-12-28,NCR,Male,36,35-49,Sexual Contact,MSM
+1138,2024-12-29,Region 4A,Male,17,15-24,Sexual Contact,MSM
+1139,2024-12-30,NCR,Male,26,25-34,Sexual Contact,MSM
+1140,2024-12-31,Region 3,Male,31,25-34,Sexual Contact,MSM
+1141,2024-10-04,NCR,Male,23,15-24,Sexual Contact,MSM
+1142,2024-10-09,Region 4A,Male,28,25-34,Sexual Contact,MSM
+1143,2024-10-14,NCR,Male,20,15-24,Sexual Contact,MSM
+1144,2024-10-19,Region 3,Male,34,25-34,Sexual Contact,MSM
+1145,2024-10-24,Region 7,Male,22,15-24,Sexual Contact,MSM
+1146,2024-10-29,NCR,Male,39,35-49,Sexual Contact,MSM
+1147,2024-11-02,Region 4A,Male,25,25-34,Sexual Contact,MSM
+1148,2024-11-07,NCR,Male,19,15-24,Sexual Contact,MSM
+1149,2024-11-12,Region 6,Male,30,25-34,Sexual Contact,MSM
+1150,2024-11-17,NCR,Female,27,25-34,Sexual Contact,Heterosexual
+1151,2024-11-22,Region 4A,Male,24,15-24,Sexual Contact,MSM
+1152,2024-11-27,NCR,Male,32,25-34,Sexual Contact,MSM
+1153,2024-12-02,Region 3,Male,21,15-24,Sexual Contact,MSM
+1154,2024-12-07,NCR,Male,43,35-49,Sexual Contact,MSM
+1155,2024-12-12,Region 11,Male,26,25-34,Sexual Contact,MSM
+1156,2024-12-17,Region 4A,Male,22,15-24,Sexual Contact,MSM
+1157,2024-12-22,NCR,Male,29,25-34,Sexual Contact,MSM
+1158,2024-12-27,NCR,Male,18,15-24,Sexual Contact,MSM
+1159,2024-12-30,Region 7,Male,35,35-49,Sexual Contact,MSM
+1160,2024-10-03,Region 4A,Male,23,15-24,Sexual Contact,MSM
+1161,2024-10-08,NCR,Male,28,25-34,Sexual Contact,MSM
+1162,2024-10-13,Region 3,Male,20,15-24,Sexual Contact,MSM
+1163,2024-10-18,NCR,Male,31,25-34,Sexual Contact,MSM
+1164,2024-10-23,Region 4A,Male,25,25-34,Sexual Contact,MSM
+1165,2024-10-28,NCR,Male,22,15-24,Sexual Contact,MSM
+1166,2024-11-02,Region 6,Male,27,25-34,Sexual Contact,MSM
+1167,2024-11-07,NCR,Male,38,35-49,Sexual Contact,MSM
+1168,2024-11-12,Region 3,Male,24,15-24,Sexual Contact,MSM
+1169,2024-11-17,NCR,Male,29,25-34,Sexual Contact,MSM
+1170,2024-11-22,Region 4A,Male,21,15-24,Sexual Contact,MSM
+1171,2024-11-27,NCR,Male,33,25-34,Sexual Contact,MSM
+1172,2024-12-02,Region 7,Male,26,25-34,Sexual Contact,MSM
+1173,2024-12-07,NCR,Male,20,15-24,Sexual Contact,MSM
+1174,2024-12-12,Region 4A,Male,40,35-49,Sexual Contact,MSM
+1175,2024-12-17,NCR,Male,23,15-24,Sexual Contact,MSM
+1176,2024-12-22,Region 3,Male,30,25-34,Sexual Contact,MSM
+1177,2024-12-27,NCR,Male,25,25-34,Sexual Contact,MSM
+1178,2024-12-30,Region 4A,Male,19,15-24,Sexual Contact,MSM
+1179,2024-10-06,NCR,Male,28,25-34,Sexual Contact,MSM
+1180,2024-10-11,Region 11,Male,24,15-24,Sexual Contact,MSM
+1181,2024-10-16,NCR,Male,34,25-34,Sexual Contact,MSM
+1182,2024-10-21,Region 4A,Male,22,15-24,Sexual Contact,MSM
+1183,2024-10-26,NCR,Male,39,35-49,Sexual Contact,MSM
+1184,2024-10-31,Region 3,Male,26,25-34,Sexual Contact,MSM
+1185,2024-11-05,NCR,Male,20,15-24,Sexual Contact,MSM
+1186,2024-11-10,Region 6,Male,31,25-34,Sexual Contact,MSM
+1187,2024-11-15,NCR,Male,23,15-24,Sexual Contact,MSM
+1188,2024-11-20,Region 4A,Male,28,25-34,Sexual Contact,MSM
+1189,2024-11-25,NCR,Male,42,35-49,Sexual Contact,MSM
+1190,2024-11-30,Region 7,Male,25,25-34,Sexual Contact,MSM
+1191,2024-12-05,NCR,Male,18,15-24,Sexual Contact,MSM
+1192,2024-12-10,Region 3,Male,33,25-34,Sexual Contact,MSM
+1193,2024-12-15,NCR,Male,21,15-24,Sexual Contact,MSM
+1194,2024-12-20,Region 4A,Male,27,25-34,Sexual Contact,MSM
+1195,2024-12-25,NCR,Female,30,25-34,Sexual Contact,Heterosexual
+1196,2024-12-28,Region 11,Male,24,15-24,Sexual Contact,MSM
+1197,2024-12-29,NCR,Male,29,25-34,Sexual Contact,MSM
+1198,2024-12-30,Region 4A,Male,36,35-49,Sexual Contact,MSM
+1199,2024-12-31,NCR,Male,22,15-24,Sexual Contact,MSM
+1200,2024-12-31,Region 3,Male,26,25-34,Sexual Contact,MSM

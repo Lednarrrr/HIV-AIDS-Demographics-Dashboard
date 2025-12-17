@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>HIV/AIDS Demographics Dashboard</title>
+</head>
+<body>
+    <header>
+        <h1>HIV/AIDS Demographics Dashboard</h1>
+        <p id="status">Loading data...</p>
+    </header>
+
+    <main>
+        <section id="summary">
+            <div id="cards" class="cards"></div>
+        </section>
+
+        <div id="controls">
+            <input id="search" placeholder="Search (Region, Sex, Age_Group, Risk_Category)" />
+        </div>
+
+        <div id="table-container"></div>
+        <div id="error" style="color:crimson"></div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

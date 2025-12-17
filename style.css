@@ -1,0 +1,39 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 16px;
+	background: #f7f9fb;
+	color: #111;
+}
+
+header h1 {
+	margin: 0 0 8px 0;
+}
+
+#controls { margin: 12px 0; }
+
+#summary { margin: 12px 0 18px 0; }
+.cards { display:flex; gap:12px; flex-wrap:wrap; }
+.card { background: #fff; padding: 14px; border-radius: 8px; box-shadow: 0 1px 4px rgba(16,24,40,0.06); min-width: 140px; }
+.card-title { font-size: 13px; color: #4b5563; }
+.card-value { font-size: 20px; font-weight: 600; margin-top:6px; }
+
+.data-table {
+	width: 100%;
+	border-collapse: collapse;
+	background: #fff;
+}
+
+.data-table th, .data-table td {
+	border: 1px solid #e1e6eb;
+	padding: 8px 10px;
+	text-align: left;
+	font-size: 13px;
+}
+
+.data-table thead { background: #f0f4f8; }
+
+.data-table tbody tr:nth-child(even) { background: #fbfcfd; }
+
+#table-container { overflow: auto; max-height: 70vh; }
+
+#search { width: 100%; max-width: 420px; padding: 8px; }
