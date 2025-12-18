@@ -4,7 +4,7 @@ async function fetchAndRenderCSV() {
 
     try {
         // 1. Fetch from your Python Route instead of the file directly
-        const res = await fetch('/api/data'); 
+        const res = await fetch('datasets/data.csv');
         
         if (!res.ok) throw new Error(`Server error: ${res.status}`);
         
@@ -37,6 +37,29 @@ async function fetchAndRenderCSV() {
         statusEl.textContent = 'Failed to load data';
         document.getElementById('error').textContent = err.message;
     }
+}
+
+function parseCsvToObjects(csvText) {
+    const lines = csvText.split(/\r?\n/); // Split rows
+    const headers = lines[0].split(',').map(h => h.trim()); // Get headers
+    const result = [];
+
+    for (let i = 1; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (!line) continue; // Skip empty lines
+
+        // Simple split by comma (works for your data since it has no commas inside values)
+        const currentLine = line.split(',');
+
+        if (currentLine.length === headers.length) {
+            const obj = {};
+            headers.forEach((header, index) => {
+                obj[header] = currentLine[index].trim();
+            });
+            result.push(obj);
+        }
+    }
+    return result;
 }
 
 // NEW: This function is much simpler than parsing CSV text strings!
